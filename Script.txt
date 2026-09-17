@@ -1,0 +1,31 @@
+01. Load Dataset
+        ↓
+02. Data Inspection
+        ↓
+03. Data Cleaning
+        ↓
+04. EDA
+        ↓
+05. Feature Engineering
+        ↓
+06. Target Analysis
+        ↓
+07. Train / Test Split
+        ↓
+08. Preprocessing
+        ↓
+09. Train Multiple Models
+        ↓
+10. Model Evaluation
+        ↓
+11. Cross Validation
+        ↓
+12. Hyperparameter Tuning
+        ↓
+13. Feature Importance / SHAP
+        ↓
+14. Select Final Model
+        ↓
+15. Save Model
+        ↓
+16. Deployment
